@@ -2,9 +2,9 @@
   font-family: 'CookieRun';
   src: url('/CookieRun.otf');
 }
-h2 {
-  font-family: 'CookieRun';
+.font {
+  font-family: 'CookieRun.otf';
 }
-h3 {
+.non-font {
   font-family: 'Arial';
 }
