@@ -1,6 +1,9 @@
 @font-face {
   font-family: 'CookieRun';
   src: url('/CookieRun.otf');
-* {
+h2 {
   font-family: 'CookieRun';
+}
+h3 {
+  font-family: 'Arial';
 }
