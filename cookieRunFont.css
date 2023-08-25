@@ -1,9 +1,9 @@
-@font-face {
+/* @font-face {
   font-family: 'CookieRun';
   src: url('/CookieRun.otf');
-}
+} */
 .font {
-  font-family: 'CookieRun.otf';
+  font-family: 'cookieRunFont/CookieRun.otf';
 }
 .non-font {
   font-family: 'Arial';
